@@ -15,7 +15,7 @@ class BloomFilter {
   #indexes(item) {
     const digest = createHash('sha256').update(item).digest();
     const h1 = digest.readUInt32LE(0);
-    const h2 = digest.readUInt32LE(4) | 1;
+    const h2 = (digest.readUInt32LE(4) | 1) >>> 0; // `|` makes it signed; >>> 0 makes it unsigned again
     return Array.from({ length: this.k }, (_, i) => (h1 + i * h2) % this.m); // double hashing
   }
 
