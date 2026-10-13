@@ -1,4 +1,4 @@
-package trees.a_binary_tree;
+package trees;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

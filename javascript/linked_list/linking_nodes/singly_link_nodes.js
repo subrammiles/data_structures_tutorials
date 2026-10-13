@@ -1,4 +1,4 @@
-let Node=require('./Node');
+let Node=require('./singly_node');
 
 let l1=new Node(2);
 let l2=new Node(34);

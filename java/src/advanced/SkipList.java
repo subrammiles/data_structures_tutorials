@@ -1,4 +1,4 @@
-package advanced.d_skip_list;
+package advanced;
 
 import java.util.ArrayList;
 import java.util.List;

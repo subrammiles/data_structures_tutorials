@@ -1,4 +1,4 @@
-package advanced.e_bloom_filter;
+package advanced;
 
 import java.nio.charset.StandardCharsets;
 import java.util.BitSet;

@@ -1,4 +1,4 @@
-package stack.a_basics;
+package stack;
 
 import common.Check;
 

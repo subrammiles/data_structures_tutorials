@@ -1,4 +1,4 @@
-package hashing.a_basics.dat;
+package hashing;
 
 public class Student {
     int roll_number;

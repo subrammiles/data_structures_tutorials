@@ -1,4 +1,4 @@
-package graph.b_algorithms;
+package graph;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -16,7 +16,7 @@ import common.Check;
  * Dijkstra: shortest paths, NON-NEGATIVE weights. Min-heap, O(E log V).
  * Bellman-Ford: handles negative weights, detects negative cycles. O(V * E).
  * Prim: minimum spanning tree, grows one tree with a heap. O(E log V).
- * Kruskal: MST by sorting edges + union-find - see disjoint_set/a_basics/UnionFind.java.
+ * Kruskal: MST by sorting edges + union-find - see disjoint_set/UnionFind.java.
  * Floyd-Warshall: all pairs shortest paths, O(V^3), fine for V up to a few hundred.
  */
 public class GraphAlgorithms {

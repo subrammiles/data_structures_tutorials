@@ -1,4 +1,4 @@
-package queue.a_basics;
+package queue;
 
 import common.Check;
 

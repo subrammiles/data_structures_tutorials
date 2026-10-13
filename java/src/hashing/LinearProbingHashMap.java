@@ -1,4 +1,4 @@
-package hashing.c_open_addressing;
+package hashing;
 
 import common.Check;
 

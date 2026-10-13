@@ -1,6 +1,6 @@
-package hashing.a_basics.dat;
+package hashing;
 
-public class DAT {
+public class DirectAddressTable {
 
 
     static void insert(Student[] students,Student student){

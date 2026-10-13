@@ -1,4 +1,4 @@
-package arrays.b_dynamic_array;
+package arrays;
 
 import common.Check;
 

@@ -1,4 +1,4 @@
-package arrays.a_basics;
+package arrays;
 
 public class NeedForAnArray {
     public static void findAverageOfStudentsMarks(){

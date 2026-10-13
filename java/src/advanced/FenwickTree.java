@@ -1,4 +1,4 @@
-package advanced.b_fenwick_tree;
+package advanced;
 
 import common.Check;
 

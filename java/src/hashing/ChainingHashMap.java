@@ -1,9 +1,9 @@
-package hashing.b_separate_chaining;
+package hashing;
 
 import common.Check;
 
 /*
- * Hash map with SEPARATE CHAINING - the next step after the Direct Address Table (hashing/a_basics/dat).
+ * Hash map with SEPARATE CHAINING - the next step after the Direct Address Table (hashing/DirectAddressTable.java).
  *
  * DAT problem: keys must be small integers, and the array must be as big as the largest key.
  * Hash map idea: index = hash(key) % capacity. Many keys can land on the same index (a COLLISION),

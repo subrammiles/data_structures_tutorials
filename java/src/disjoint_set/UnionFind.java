@@ -1,4 +1,4 @@
-package disjoint_set.a_basics;
+package disjoint_set;
 
 import java.util.Arrays;
 

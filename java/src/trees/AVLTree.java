@@ -1,4 +1,4 @@
-package trees.c_avl;
+package trees;
 
 import java.util.ArrayList;
 import java.util.List;

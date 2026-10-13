@@ -1,4 +1,4 @@
-package advanced.a_segment_tree;
+package advanced;
 
 import common.Check;
 

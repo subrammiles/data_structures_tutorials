@@ -30,7 +30,7 @@ hashMap1.set('lion', 1);
 hashMap1.set('ox', 8);
 
 console.log(hashMap1.buckets);
-console.log(hashMap.get('cat'));
-console.log(hashMap.get('tiger'));
-console.log(hashMap.get('lion'));
-console.log(hashMap.get('ox'));
+console.log(hashMap1.get('cat'));
+console.log(hashMap1.get('tiger'));
+console.log(hashMap1.get('lion'));
+console.log(hashMap1.get('ox'));

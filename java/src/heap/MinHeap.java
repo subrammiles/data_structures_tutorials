@@ -1,4 +1,4 @@
-package heap.a_binary_heap;
+package heap;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package trie.a_basics;
+package trie;
 
 import java.util.ArrayList;
 import java.util.List;

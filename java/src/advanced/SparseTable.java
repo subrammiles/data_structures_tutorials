@@ -1,4 +1,4 @@
-package advanced.c_sparse_table;
+package advanced;
 
 import common.Check;
 

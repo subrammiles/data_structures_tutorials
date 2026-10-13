@@ -1,4 +1,4 @@
-package trees.b_bst;
+package trees;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ import common.Check;
  * search / insert / delete / min / max / floor / ceiling are O(h), h = height.
  *   balanced tree: h = O(log n)
  *   inserting sorted data 1,2,3,4...: the tree becomes a linked list, h = O(n)
- * That worst case is why self-balancing trees exist (AVL - see trees/c_avl, red-black - Java's TreeMap).
+ * That worst case is why self-balancing trees exist (AVL - see trees/AVLTree.java, red-black - Java's TreeMap).
  *
  * Delete has three cases:
  *   1. leaf         -> just remove it
